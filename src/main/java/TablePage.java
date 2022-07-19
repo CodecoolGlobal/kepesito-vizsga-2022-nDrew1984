@@ -37,7 +37,4 @@ public class TablePage extends BasePage {
         List<WebElement> tableRecords = driver.findElements(rows);
         return tableRecords.size();
     }
-    public
-
-
 }
